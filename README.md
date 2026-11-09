@@ -9,7 +9,7 @@ Regras de texto: Parker aparece só como "soluções Parker" (nunca distribuidor
 ## Estrutura
 
 - `index.html`: página única e autocontida (HTML, CSS e JS inline), mesma identidade visual da LP NR13 e do site da Vazão.
-- Seções: topo com chat · linhas de produto (carrossel) · vitrine Ingersoll Rand (16 itens; a aba Parker foi retirada) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
+- Seções: topo com chat · linhas de produto (carrossel) · vitrine Ingersoll Rand (14 itens; a aba Parker foi retirada) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
 - O botão "Solicitar cotação" de cada produto já preenche **Interesse** e **Produto** no formulário.
 
 ## Imagens (`assets/`)
@@ -32,10 +32,8 @@ Fotos da vitrine em `assets/produtos/`. As 8 fotos da Parker continuam na pasta,
 
 | Parker | Ingersoll Rand |
 |---|---|
-| `parker-filtro-coalescente-oil-x.jpg` | `ir-tubulacao-aluminio-simplair.jpg` |
 | `parker-secador-refrigeracao-pse.jpg` | `ir-secador-refrigeracao-10-150-cfm.png` ✓ |
 | `parker-secador-adsorcao-cdas-hl.jpg` | `ir-secador-refrigeracao-3600-24000-cfm.png` ✓ |
-| `parker-secador-adsorcao-k-mt.jpg` | `ir-separadores-polysep.jpg` |
 | `parker-elemento-coalescente.jpg` | `ir-dreno-liquidator.png` ✓ |
 | `parker-filtro-aco-carbono.jpg` | `ir-drenos-eletronicos.png` ✓ |
 | `parker-filtro-carvao-ativado.jpg` | `ir-drenos-pnld-ii.png` ✓ |
