@@ -9,7 +9,7 @@ Regras de texto: Parker aparece só como "soluções Parker" (nunca distribuidor
 ## Estrutura
 
 - `index.html`: página única e autocontida (HTML, CSS e JS inline), mesma identidade visual da LP NR13 e do site da Vazão.
-- Seções: topo com chat · linhas de produto (carrossel) · vitrine com abas Parker / Ingersoll Rand (23 itens) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
+- Seções: topo com chat · linhas de produto (carrossel) · vitrine com abas Parker / Ingersoll Rand (28 itens) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
 - O botão "Solicitar cotação" de cada produto já preenche **Interesse** e **Produto** no formulário.
 
 ## Imagens (`assets/`)
@@ -28,22 +28,27 @@ Todas entram **sozinhas** quando o arquivo for adicionado com o nome exato. Até
 | `linha-secadores-adsorcao.jpg` (já incluída) | linha CDAS HL e K-MT | 800×600 |
 | `linha-tubulacao-simplair.jpg` (já incluída) | linha SimplAir | 800×600 |
 
-Fotos da vitrine em `assets/produtos/`. As 8 da Parker já estão incluídas (imagens ilustrativas, 2:1 com fundo azul-claro). As da Ingersoll Rand: 800×600, produto recortado em fundo branco.
+Fotos da vitrine em `assets/produtos/`. As 8 da Parker já estão incluídas (imagens ilustrativas, 2:1 com fundo azul-claro). As da Ingersoll Rand marcadas com ✓ já estão incluídas (PNG 640×320, fundo transparente, recortadas do catálogo; dá para trocar por fotos em alta mantendo o mesmo nome). As que faltam: `.jpg` 800×600, produto recortado em fundo branco.
 
 | Parker | Ingersoll Rand |
 |---|---|
 | `parker-filtro-coalescente-oil-x.jpg` | `ir-tubulacao-aluminio-simplair.jpg` |
-| `parker-secador-refrigeracao-pse.jpg` | `ir-secadores-refrigeracao.jpg` |
-| `parker-secador-adsorcao-cdas-hl.jpg` | `ir-separadores-polysep.jpg` |
-| `parker-secador-adsorcao-k-mt.jpg` | `ir-dreno-liquidator.jpg` |
-| `parker-elemento-coalescente.jpg` | `ir-drenos-eletronicos.jpg` |
-| `parker-filtro-aco-carbono.jpg` | `ir-drenos-pnld-ii.jpg` |
-| `parker-filtro-carvao-ativado.jpg` | `ir-filtros-coalescentes-aco-carbono.jpg` |
-| `parker-filtro-alta-pressao.jpg` | `ir-filtros-coalescentes-serie-f.jpg` |
-| | `ir-secador-adsorcao-sem-aquecimento.jpg` |
-| | `ir-secador-adsorcao-hoc-1088.jpg` |
-| | `ir-secador-adsorcao-hoc-1191.jpg` |
-| | `ir-secador-adsorcao-4-226.jpg` |
+| `parker-secador-refrigeracao-pse.jpg` | `ir-secador-refrigeracao-10-150-cfm.png` ✓ |
+| `parker-secador-adsorcao-cdas-hl.jpg` | `ir-secador-refrigeracao-3600-24000-cfm.png` ✓ |
+| `parker-secador-adsorcao-k-mt.jpg` | `ir-separadores-polysep.jpg` |
+| `parker-elemento-coalescente.jpg` | `ir-dreno-liquidator.png` ✓ |
+| `parker-filtro-aco-carbono.jpg` | `ir-drenos-eletronicos.png` ✓ |
+| `parker-filtro-carvao-ativado.jpg` | `ir-drenos-pnld-ii.png` ✓ |
+| `parker-filtro-alta-pressao.jpg` | `ir-filtros-coalescentes-aco-carbono.png` ✓ |
+| | `ir-filtros-coalescentes-serie-f.png` ✓ |
+| | `ir-secador-adsorcao-sem-aquecimento.png` ✓ |
+| | `ir-secador-adsorcao-hoc-1088.png` ✓ |
+| | `ir-secador-adsorcao-hoc-1191.png` ✓ |
+| | `ir-secador-adsorcao-4-226.png` ✓ |
+| | `ir-secador-adsorcao-hoc-420.png` ✓ |
+| | `ir-secador-adsorcao-hla.png` ✓ |
+| | `ir-secador-adsorcao-modular.png` ✓ |
+| | `ir-secador-adsorcao-ponto-de-uso.png` ✓ |
 | | `ir-secador-adsorcao-ventilador.jpg` |
 | | `ir-secador-adsorcao-d-ila.jpg` |
 | | `ir-secador-adsorcao-hl.jpg` |
