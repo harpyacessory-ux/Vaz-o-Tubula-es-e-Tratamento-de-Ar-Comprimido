@@ -9,7 +9,7 @@ Regras de texto: Parker aparece só como "soluções Parker" (nunca distribuidor
 ## Estrutura
 
 - `index.html`: página única e autocontida (HTML, CSS e JS inline), mesma identidade visual da LP NR13 e do site da Vazão.
-- Seções: topo com chat · linhas de produto (carrossel) · vitrine Ingersoll Rand (20 itens; a aba Parker foi retirada) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
+- Seções: topo com chat · linhas de produto (carrossel) · vitrine Ingersoll Rand (16 itens; a aba Parker foi retirada) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
 - O botão "Solicitar cotação" de cada produto já preenche **Interesse** e **Produto** no formulário.
 
 ## Imagens (`assets/`)
@@ -48,10 +48,6 @@ Fotos da vitrine em `assets/produtos/`. As 8 fotos da Parker continuam na pasta,
 | | `ir-secador-adsorcao-hoc-420.png` ✓ |
 | | `ir-secador-adsorcao-hla.png` ✓ |
 | | `ir-secador-adsorcao-modular.png` ✓ |
-| | `ir-secador-adsorcao-ponto-de-uso.png` ✓ |
-| | `ir-secador-adsorcao-ventilador.jpg` |
-| | `ir-secador-adsorcao-d-ila.jpg` |
-| | `ir-secador-adsorcao-hl.jpg` |
 
 ## Configuração (bloco `CONFIG` no fim do `index.html`)
 
