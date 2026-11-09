@@ -20,7 +20,7 @@ Todas entram **sozinhas** quando o arquivo for adicionado com o nome exato. Até
 |---|---|---|
 | `logo-vazao.webp` (já incluída) | topo e rodapé | 230×72 |
 | `logo-parker.png` | aba Parker da vitrine | 400×160, fundo transparente |
-| `logo-ingersoll-rand.png` | aba Ingersoll Rand da vitrine | 400×160, fundo transparente |
+| `logo-ingersoll-rand.png` (já incluída) | aba Ingersoll Rand da vitrine | 400×160, fundo transparente |
 | `banner-topo.jpg` (já incluída) | foto do topo, atrás do chat | 1200×900 |
 | `cta-fundo.jpg` (já incluída) | foto do banner azul | 800×724 |
 | `linha-filtros-oil-x.jpg` (já incluída) | linha Filtros OIL-X | 800×600 |
