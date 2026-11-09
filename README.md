@@ -9,7 +9,7 @@ Regras de texto: Parker aparece só como "soluções Parker" (nunca distribuidor
 ## Estrutura
 
 - `index.html`: página única e autocontida (HTML, CSS e JS inline), mesma identidade visual da LP NR13 e do site da Vazão.
-- Seções: topo com chat · linhas de produto (carrossel) · vitrine com abas Parker / Ingersoll Rand (28 itens) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
+- Seções: topo com chat · linhas de produto (carrossel) · vitrine Ingersoll Rand (20 itens; a aba Parker foi retirada) · sistema de tratamento (fluxo do ar + refrigeração × adsorção) · etapas do atendimento + dados para a cotação · diferenciais · perguntas frequentes · banner · formulário de cotação.
 - O botão "Solicitar cotação" de cada produto já preenche **Interesse** e **Produto** no formulário.
 
 ## Imagens (`assets/`)
@@ -28,7 +28,7 @@ Todas entram **sozinhas** quando o arquivo for adicionado com o nome exato. Até
 | `linha-secadores-adsorcao.jpg` (já incluída) | linha CDAS HL e K-MT | 800×600 |
 | `linha-tubulacao-simplair.jpg` (já incluída) | linha SimplAir | 800×600 |
 
-Fotos da vitrine em `assets/produtos/`. As 8 da Parker já estão incluídas (imagens ilustrativas, 2:1 com fundo azul-claro). As da Ingersoll Rand marcadas com ✓ já estão incluídas (PNG 640×320, fundo transparente, recortadas do catálogo; dá para trocar por fotos em alta mantendo o mesmo nome). As que faltam: `.jpg` 800×600, produto recortado em fundo branco.
+Fotos da vitrine em `assets/produtos/`. As 8 fotos da Parker continuam na pasta, mas não aparecem mais na vitrine. As da Ingersoll Rand marcadas com ✓ já estão incluídas (PNG 640×320, fundo transparente, recortadas do catálogo; dá para trocar por fotos em alta mantendo o mesmo nome). As que faltam: `.jpg` 800×600, produto recortado em fundo branco.
 
 | Parker | Ingersoll Rand |
 |---|---|
